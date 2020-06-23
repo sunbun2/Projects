@@ -1165,3 +1165,15 @@ h1, h2, h3, h4, h5, h6 {
 .switch-wrap p {
   margin: 0;
 }
+
+df-messenger {
+  --df-messenger-bot-message: #0e56cf;
+  --df-messenger-button-titlebar-color: #1b2166;
+  --df-messenger-chat-background-color: #edeef0;
+  --df-messenger-font-color: white;
+  --df-messenger-send-icon: #40444a;
+  --df-messenger-user-message: #04420b;
+  --df-messenger-input-box-color: #bcc2bd;
+  --df-messenger-input-font-color: #0a0a0a;
+}
+
